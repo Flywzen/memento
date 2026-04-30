@@ -27,7 +27,7 @@ class JournalEntry {
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
 
-const DateTime _birth = DateTime(2004, 10, 27);
+final DateTime _birth = DateTime(2004, 10, 27);
 
 const List<String> _quotes = [
   'waktu yang terbuang tidak pernah kembali —\ntapi hari ini masih milik lo.',
