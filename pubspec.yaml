@@ -1,4 +1,4 @@
-name: age_tracker
+name: memento
 description: Tracker umur & perubahan harian
 
 publish_to: 'none'
